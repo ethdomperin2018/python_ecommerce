@@ -1,7 +1,5 @@
 [GinAmore Live Link](https://ginamore.herokuapp.com/)
 
-[GitHub Repository](https://github.com/sophiebatten123/GinAmore)
-
 # GinAmore
 
 (Developer: Sophie Batten)
